@@ -15,7 +15,7 @@ Atualmente estou cursando **Engenharia de Software** e gosto de colocar a mão n
 Tô sempre buscando desafios que me tirem da zona de conforto, me conectem com gente boa e me ajudem a evoluir tanto como dev quanto como pessoa. 🚀✨
 
 <div align="center">
-  <a href="">
+  <a href="https://endil-portfolio.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="portfolio icon" />
   </a>
   <a href="mailto:endiligor2016@gmail.com">
