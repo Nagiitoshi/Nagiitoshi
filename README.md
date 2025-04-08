@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="coding-cat" />
-</div>
+
 
 <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Full Stack | Bacharelado em Engenharia de Software</i></p>
@@ -9,7 +7,6 @@
 
 ## 📚🚀 Sobre Mim
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
 Eae! 👋
 Sou o **Endil**, **desenvolvedor** que curte tecnologia, resolver problemas e estar sempre aprendendo algo novo.
