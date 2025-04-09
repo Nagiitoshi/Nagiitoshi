@@ -33,7 +33,7 @@ Tô sempre buscando desafios que me tirem da zona de conforto, me conectem com g
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagiitoshi&layout=compact&langs_count=20&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagiitoshi&theme=tokyonight" />
+ 
 </div>
 
 <br>
